@@ -1,4 +1,4 @@
-/*Objective: SP creation script w/call to procedure Utilizes dynamic SQL and includes two input parameters that will be used as WHERE conditions
+/*Objective: SP creation script w/call to procedure utilizes dynamic SQL and includes two input parameters that will be used as WHERE conditions
   Description: */
   USE fp; 
   DELIMITER // 
