@@ -1,5 +1,5 @@
-/*Use 1 input variable and returns a scaler value
-  Description: this script takes the column input of bike price in the functions parameters and returns that bikes price point */
+/* Objective: Use 1 input variable and returns a scaler value
+   Description: this script takes the column input of bike price in the parameters of the function and returns that bikes price point */
 DROP FUNCTION IF EXISTS bike_price;
 
 USE fp;
