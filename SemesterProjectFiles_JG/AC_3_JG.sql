@@ -32,8 +32,6 @@ EXECUTE select_products_statement;
 DEALLOCATE PREPARE select_products_statement; 
 END //
   
-  /*Fix this bug where it does not return the bike_id 
-   It returns all 121 bike_ids no matter what input -- figure this out!*/
   USE fp; 
   CALL select_products(null, null);
   
